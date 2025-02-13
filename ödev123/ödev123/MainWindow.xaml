@@ -1,0 +1,13 @@
+﻿<Window x:Class="BHealthyApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Menu" Height="400" Width="300">
+    <Grid Background="LightGray">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label Content="Welcome to B-HEALTY APP" Foreground="DarkBlue" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+            <Button x:Name="btnBMIActivities" Content="BMI &amp; Activities" FontSize="16" FontWeight="Bold" Background="Azure" Margin="0,5" Padding="10" Click="btnBMIActivities_Click"/>
+            <Button x:Name="btnBeHealthyWebPage" Content="BeHealthy Web Page" FontSize="16" FontWeight="Bold" Background="Azure" Margin="0,5" Padding="10" Click="btnBeHealthyWebPage_Click"/>
+            <Button x:Name="btnExit" Content="Exit" FontSize="16" FontWeight="Bold" Background="Azure" Margin="0,5" Padding="10" Click="btnExit_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

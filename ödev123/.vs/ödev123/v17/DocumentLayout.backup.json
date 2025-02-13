@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|c:\\users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\bmiactivitieswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|solutionrelative:\u00F6dev123\\bmiactivitieswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|c:\\users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\behealthywebpagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|solutionrelative:\u00F6dev123\\behealthywebpagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|c:\\users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\behealthywebpagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|solutionrelative:\u00F6dev123\\behealthywebpagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|c:\\users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\bmiusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|solutionrelative:\u00F6dev123\\bmiusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|c:\\users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\bmiusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|solutionrelative:\u00F6dev123\\bmiusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|c:\\users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|solutionrelative:\u00F6dev123\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|c:\\users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DEA90900-5C33-4CD1-B2DC-94E06945CA15}|\u00F6dev123\\\u00F6dev123.csproj|solutionrelative:\u00F6dev123\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeHealthyWebPageWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\BeHealthyWebPageWindow.xaml.cs",
+              "RelativeDocumentMoniker": "\u00F6dev123\\BeHealthyWebPageWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\BeHealthyWebPageWindow.xaml.cs",
+              "RelativeToolTip": "\u00F6dev123\\BeHealthyWebPageWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:11:29.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeHealthyWebPageWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\BeHealthyWebPageWindow.xaml",
+              "RelativeDocumentMoniker": "\u00F6dev123\\BeHealthyWebPageWindow.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\BeHealthyWebPageWindow.xaml",
+              "RelativeToolTip": "\u00F6dev123\\BeHealthyWebPageWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-22T17:08:39.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BMIActivitiesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\BMIActivitiesWindow.xaml",
+              "RelativeDocumentMoniker": "\u00F6dev123\\BMIActivitiesWindow.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\BMIActivitiesWindow.xaml",
+              "RelativeToolTip": "\u00F6dev123\\BMIActivitiesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-22T17:08:19.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BMIUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\BMIUserControl.xaml",
+              "RelativeDocumentMoniker": "\u00F6dev123\\BMIUserControl.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\BMIUserControl.xaml",
+              "RelativeToolTip": "\u00F6dev123\\BMIUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-22T17:09:39.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BMIUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\BMIUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "\u00F6dev123\\BMIUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\BMIUserControl.xaml.cs",
+              "RelativeToolTip": "\u00F6dev123\\BMIUserControl.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:09:59.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "\u00F6dev123\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\MainWindow.xaml",
+              "RelativeToolTip": "\u00F6dev123\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-22T17:07:10.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "\u00F6dev123\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\\u00F6dev123\\\u00F6dev123\\MainWindow.xaml.cs",
+              "RelativeToolTip": "\u00F6dev123\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:07:09.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

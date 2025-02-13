@@ -1,0 +1,12 @@
+﻿<Window x:Class="HealthApp.WebWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BeHealthy Web Page" Height="450" Width="800">
+    <Grid>
+        <Frame Name="WebFrame" Margin="10" />
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,10">
+            <Button Content="Show Web Page" Click="ShowWebPage" Margin="10" />
+            <Button Content="Back to Menu" Click="BackToMenu" Margin="10" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\proje\proje\bin\Debug\net8.0-windows\proje.exe
+C:\Users\pc\source\repos\proje\proje\bin\Debug\net8.0-windows\proje.deps.json
+C:\Users\pc\source\repos\proje\proje\bin\Debug\net8.0-windows\proje.runtimeconfig.json
+C:\Users\pc\source\repos\proje\proje\bin\Debug\net8.0-windows\proje.dll
+C:\Users\pc\source\repos\proje\proje\bin\Debug\net8.0-windows\proje.pdb
+C:\Users\pc\source\repos\proje\proje\obj\Debug\net8.0-windows\proje.Form1.resources
+C:\Users\pc\source\repos\proje\proje\obj\Debug\net8.0-windows\proje.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\proje\proje\obj\Debug\net8.0-windows\proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\proje\proje\obj\Debug\net8.0-windows\proje.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\proje\proje\obj\Debug\net8.0-windows\proje.AssemblyInfo.cs
+C:\Users\pc\source\repos\proje\proje\obj\Debug\net8.0-windows\proje.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\proje\proje\obj\Debug\net8.0-windows\proje.dll
+C:\Users\pc\source\repos\proje\proje\obj\Debug\net8.0-windows\refint\proje.dll
+C:\Users\pc\source\repos\proje\proje\obj\Debug\net8.0-windows\proje.pdb
+C:\Users\pc\source\repos\proje\proje\obj\Debug\net8.0-windows\proje.genruntimeconfig.cache
+C:\Users\pc\source\repos\proje\proje\obj\Debug\net8.0-windows\ref\proje.dll

@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\asdasdasdasd\asdasdasdasd\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\pc\source\repos\asdasdasdasd\asdasdasdasd\obj\Release\net8.0-windows\UserControl1.baml
+C:\Users\pc\source\repos\asdasdasdasd\asdasdasdasd\obj\Release\net8.0-windows\Window2.baml
+C:\Users\pc\source\repos\asdasdasdasd\asdasdasdasd\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\pc\source\repos\asdasdasdasd\asdasdasdasd\obj\Release\net8.0-windows\UserControl1.g.cs
+C:\Users\pc\source\repos\asdasdasdasd\asdasdasdasd\obj\Release\net8.0-windows\Window1.g.cs
+C:\Users\pc\source\repos\asdasdasdasd\asdasdasdasd\obj\Release\net8.0-windows\Window2.g.cs
+C:\Users\pc\source\repos\asdasdasdasd\asdasdasdasd\obj\Release\net8.0-windows\App.g.cs
+C:\Users\pc\source\repos\asdasdasdasd\asdasdasdasd\obj\Release\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\pc\source\repos\asdasdasdasd\asdasdasdasd\obj\Release\net8.0-windows\asdasdasdasd_MarkupCompile.cache
+C:\Users\pc\source\repos\asdasdasdasd\asdasdasdasd\obj\Release\net8.0-windows\asdasdasdasd_MarkupCompile.lref
